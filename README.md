@@ -68,7 +68,6 @@ Effective cost control is essential for the success of a software project becaus
 ### **6. Improves Delivery Timeliness:**
    - Effective cost management often goes hand-in-hand with timely project delivery. Staying within budget helps ensure that necessary resources (e.g., additional workforce or tools) are available when needed to meet deadlines.
 
----
 
 ### **Strategies to Prevent Budget Overruns:**
 
@@ -201,7 +200,6 @@ Agile is a more flexible, iterative, and collaborative methodology. It emphasize
 
 - **Agile** is ideal for projects needing flexibility, iterative feedback, and frequent changes, like **software development, digital marketing, and R&D**.
 - **Waterfall** works best for projects with clear, unchanging requirements, and strict timelines or regulatory needs, such as **construction, government infrastructure, and healthcare software development**. 
-
 Choosing between the two depends on how much the project's scope and requirements are expected to change and the degree of client involvement throughout the process.
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 Ensuring quality assurance (QA) throughout a software project is crucial for delivering a reliable, functional, and user-friendly product. It also reduces the risk of bugs, minimizes maintenance costs, and improves the overall user experience. There are several methods to maintain quality assurance during a software project, each of which plays a role in ensuring the software meets the desired standards.
